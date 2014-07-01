@@ -73,3 +73,7 @@ $(".parallax").mattsParallax(40);
 </html>
 ```
 
+**As Seen On**
+
+* [http://www.high5games.com](http://www.high5games.com/)
+
